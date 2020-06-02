@@ -23,10 +23,25 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe preprocessing to someone new to CSS?
+
+It helps to make the actions of CSS clearer to the reader and coder.  It it easier to be precise on elements and 
+it looks better to the eye, organization-wise.
+
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+Nesting would be my favorite for easier understanding of the layout of a page.  Media queries have always given me trouble and in preprocessing that is no different.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+They are ways to set data in code.  They can be set to be changed easily or never changed. They are used throughout the code
+
 4. What is the purpose of using functions in code?
+
+Functions are used to perform something needed in a page. They combine long equations with a variety of variables, arrays, elements, etc.
+
 5. What is JSON data?
+
+JavaScript Object Notation. Universal way of programming that uses strings and other ways to execute data in a page.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
